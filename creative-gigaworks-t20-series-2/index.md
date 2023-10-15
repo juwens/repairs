@@ -2,7 +2,7 @@
 
 - 1 x TPA3123D2, main amplifier (class d), with heatsink
 - 2 x 
-- 1 x 4556A, headphone amp, dual opamp
+- 1 x JRC4556A, headphone amp, dual opamp
 
 
 # references
