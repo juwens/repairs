@@ -1,7 +1,7 @@
 # ICs
 
 - 1 x TPA 3123D2, main amp (class d, quad amp), with heatsink
-- 2 x ST 074C, ??? pre amplifier or headphine amp ???, quad opamp
+- 2 x ST 074C, ?? equalizer (bass/trebble) amplifier ??, quad opamp
 - 1 x JRC 4556A, ??? headphone amp ???, dual opamp
 
 # references
