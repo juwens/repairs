@@ -1,0 +1,2 @@
+- https://www.ti.com/product/TPA3123D2
+- https://www.ti.com/lit/gpn/tpa3123d2
