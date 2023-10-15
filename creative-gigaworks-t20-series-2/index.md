@@ -19,9 +19,9 @@
 
 - fast off-on brings it back to life
 - wattage:
-  - working: ca. 3W, main amp is warm, ca. 35°C (pleasent warm)
-  - "muted": 5W, main amp temp > 50°C (touching is painfull)
-- main amp has a mute and a shutdown input, which can mute it
+  - working state: ca. 3W, main amp is warm, ca. 35°C (pleasent warm)
+  - inoperable state: 5W, main amp temp > 50°C (touching is painfull)
+- main amp has a mute (pin 4) and a shutdown (pin 2) input, which can mute the amp output
   - mute for apeaker is regular engaged:
   - startup
   - when headphone jack is in use
